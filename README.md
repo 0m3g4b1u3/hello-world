@@ -2,13 +2,13 @@
 Trial run for creating a repo!
 <img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/sscLogo200.png" width=200>
 
-**raylib is a simple and easy-to-use library to enjoy videogames programming.**
+**Bold text**
 
 raylib is highly inspired by Borland BGI graphics lib and by XNA framework and it's specially well suited for prototyping, tooling, graphical applications, embedded systems and education.
 
-*NOTE for ADVENTURERS: raylib is a programming library to enjoy videogames programming; no fancy interface, no visual helpers, no auto-debugging... just coding in the most pure spartan-programmers way.*
+*Italicized text*
 
-Ready to learn? Jump to [code examples!](http://www.raylib.com/examples.html)
+URL Link Jump to [code examples!](https://www.omegabluecs.com/eh1WEB/index.html)
 
 <br>
 
