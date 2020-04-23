@@ -1,7 +1,7 @@
 # hello-world
 Trial run for creating a repo!
 <hr>
-<img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/sscLogo200.png" width=200>
+<img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/GIRa.jpg" width=200>
 
 **Bold text**
 
