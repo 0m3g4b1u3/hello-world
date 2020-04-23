@@ -1,6 +1,6 @@
 # hello-world
 Trial run for creating a repo!
-<img align="left" src="https://github.com/0m3g4b1u3/hello-word/sscLogo200.png" width=256>
+<img align="left" src="https://github.com/0m3g4b1u3/hello-world/sscLogo200.png" width=256>
 
 **raylib is a simple and easy-to-use library to enjoy videogames programming.**
 
