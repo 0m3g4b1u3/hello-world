@@ -1,5 +1,5 @@
 # hello-world: A Trial Run
-<img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/sscLogo200.png" width=48>
+<img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/sscLogo200.png" width=36>
 Normal text doesn't have anything on the outsides of it.
 <br>
 <hr>
