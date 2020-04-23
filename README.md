@@ -1,7 +1,6 @@
 # hello-world
 <img align="left" src="https://github.com/0m3g4b1u3/hello-world/blob/master/sscLogo200.png" width=48>
-Normal text.
-more
+Normal text doesn't have anything on the outsides of it.
 <hr>
 <img align="right" src="https://github.com/0m3g4b1u3/hello-world/blob/master/GIRa.jpg" width=200>
 
